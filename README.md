@@ -117,7 +117,7 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 
 ### 🔧 Hardware & IoT Projects
 
-#### 4️⃣ [Flipper Zero Custom Firmware](https://github.com/Gr3y-foX/flipper-custom-fw)
+#### 4️⃣ [Flipper Zero Custom Firmware]
 **Enhanced Flipper Zero capabilities with extended range**
 
 \begin{itemize}
