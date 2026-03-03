@@ -6,8 +6,8 @@
 ║   "The best defense is understanding the offense"             ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/saimon-archont-alvarez](https://www.linkedin.com/in/viktor-pylypenko-2a8893369/))
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](v.pilipenko2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/viktor-pylypenko-2a8893369/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:v.pilipenko2005@gmail.com)
 
 **Location:** Prague, Czech Republic 🇨🇿  
 **Status:** Cybersecurity Student | Open to Internships & Junior Positions  
