@@ -32,6 +32,63 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 
 ---
 
+## 🎓 Academic Background
+
+### 🏫 University Education
+**European College, founded by European Research University - "Prague College"** — *master degree*
+📚 Faculty of Cybersecurity and LLM
+`2024 – present` | Prague, Czech Republic
+
+> Focus areas: cybersecurity, implimintation AI in automated pipelines, LLM powered vector attacks and defenses methods
+
+## 🏅 Certifications
+
+| Certification | Issuer | Status | Date |
+|---|---|---|---|
+| Computer Hardware Basics | Cisco NetAcad | ✅ Completed | 2025 |
+| Cyber Threat Management | Cisco NetAcad | ✅ Completed | 2025 |
+| Endpoint Security | Cisco NetAcad | ✅ Completed | 2025 |
+| Cybersecurity Essentials | Cisco NetAcad | ✅ Completed | 2025 |
+| Intro to Cybersecurity | Cisco NetAcad | ✅ Completed | 2025 |
+| eJPT | eLearnSecurity | 🔄 Planned | Q2 2026 |
+| EHE | EC-Council | 🔄 Planned | Q4 2026 |
+| CEH | EC-Council | 🔄 Planned | 2027 |
+| OSCP | Offensive Security | 🎯 Target | Q3 2026 |
+
+### 📖 Continuous Learning
+- Active on HackTheBox Academy (Web Security path)
+- Following MITRE ATT&CK framework updates
+- ISO/IEC 27001:2022 standard review
+- CVE database monitoring & exploitation research
+
+---
+
+### 🔐 Cybersecurity Education
+**Self-directed & Institutional Training** | `2024 – present`
+
+| Domain | Topics Covered |
+|---|---|
+| 🌐 Network Security | DNS/DHCP, routing, ARP, packet analysis |
+| 🕸️ Web Application | SQLi, XSS, CSRF, OWASP Top 10 |
+| 🐧 Linux & Systems | Hardening, sysadmin, privilege escalation |
+| 📦 Containerization | Docker security, deployment, isolation, Kubernetes |
+| 🔎 OSINT | Passive recon, footprinting, data aggregation, web marks of user |
+
+---
+
+## 🔬 Security Research Interests
+
+- **Active Directory Security:** Kerberos protocol vulnerabilities, trust relationship abuse
+- **Web Application Security:** Modern authentication bypass techniques, API security
+- **Network Protocols:** DNS exfiltration, VLAN hopping, ARP poisoning countermeasures
+- **IoT & Embedded Systems:** Firmware analysis, hardware debugging, wireless protocols
+- **Malware Development:** Payload obfuscation, AV evasion, C2 infrastructure
+
+**Current Research Project:**  
+*"Searching CVE used AI in attack on enterprise, and studying cases and pipelines, for preventing damage"*
+
+---
+
 ## 🛠️ Technical Arsenal
 
 ### Operating Systems & Environments
@@ -117,7 +174,7 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 
 ### 🔧 Hardware & IoT Projects
 
-#### 4️⃣ [Flipper Zero Custom Firmware]
+#### 4️⃣ Flipper Zero Custom Firmware
 **Enhanced Flipper Zero capabilities with extended range**
 
 \begin{itemize}
@@ -132,7 +189,7 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 
 ---
 
-#### 5️⃣ [Raspberry Pi Security Lab]
+#### 5️⃣ Raspberry Pi Security Lab
 **Self-hosted security research platform on Raspberry Pi**
 
 - **[Web Interceptor](https://github.com/Gr3y-foX/web-interogatter)** — Flask-based honeypot server that captures browser fingerprints, HTTP headers, cookies, session IDs, device/OS metadata and stores all intercepts in SQLite
@@ -160,55 +217,34 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 
 ---
 
-## 🎓 Academic Background
+## 💼 Work Experience
 
-### 🏫 University Education
-**Collegue "Prague College" — *master degree*
-📚 Faculty of Social Sciences | Andragogy & Education Research
-`2024 – present` | Prague, Czech Republic
+### 🔒 Sales Associate & IT Systems Assistant
+**Bross Trading S.R.O.** | Prague, CZ | `2023 – Q1 2025`
 
-> Focus areas: cybersecurity, implimintation AI and automated pipelines
-
-### 🏅 Security Certifications (In Progress / Planned)
-- [x] Cisco Networking Academy (NetAcad) - Completed:
-  Computer Hardware Basics (2025) - Hardware security fundamentals and system architecture
-  Cyber Threat Management (2025) - Threat intelligence, incident response, attack lifecycle
-- [ ] Cisco Networking Academy (NetAcad) - In Progress:
-  Cybersecurity Essentials (2025) - Network security, cryptography, access control
-  Endpoint Security (2025) - Device hardening, malware analysis, threat protection
-  Introduction to Cybersecurity (2025) - Security principles, CIA triad, defense strategies
-- [ ] **OSCP** (Offensive Security Certified Professional) - *Q3 2026*
-- [ ] **eJPT** (eLearnSecurity Junior Penetration Tester) - *Q2 2026*
-- [ ] **CEH** (Certified Ethical Hacker) - *2027*
-- [ ] **CompTIA Security+** (Self-study completed)
-- [ ] **EC-Council** Certifications: Ethical Hacking Essentials (EHE) - *Q4 2026*
-- [ ] **IBM Ethical** Hacking with Open Source Tools - Penetration testing with open-source frameworks - *Q4 2026*     
-
-### 📖 Continuous Learning
-- Active on HackTheBox Academy (Web Security path)
-- Following MITRE ATT&CK framework updates
-- ISO/IEC 27001:2022 standard review
-- CVE database monitoring & exploitation research
+- Administered CRM access control — managed user permissions and authentication practices
+- Conducted **authorized phishing simulations** for internal employee security awareness program
+- Performed basic security hygiene assessments of internal workflows and identified vulnerability areas
+- Maintained secure transaction processing procedures for customer data protection
 
 ---
 
-### 🔐 Cybersecurity Education
-**Self-directed & Institutional Training** | `2024 – present`
+### 🛠️ Security Researcher & Tool Developer
+**Self-Directed Projects** | Remote | `2023 – Present`
 
-| Domain | Topics Covered |
-|---|---|
-| 🌐 Network Security | DNS/DHCP, routing, ARP, packet analysis |
-| 🕸️ Web Application | SQLi, XSS, CSRF, OWASP Top 10 |
-| 🐧 Linux & Systems | Hardening, sysadmin, privilege escalation |
-| 📦 Containerization | Docker security, deployment, isolation |
-| 🔎 OSINT | Passive recon, footprinting, data aggregation |
+- Built and maintain home offensive security lab (Raspberry Pi 4, OpenWRT, Docker, DietPi)
+- Developed 4+ open-source security tools published on GitHub (traffic analysis, honeypots, audit automation)
+- Conducted **10+ pro-bono security audits** for small businesses and educational organizations
+- Assisted legal professionals and academic students with cybersecurity research and materials
 
 ---
 
-### 💼 Professional Background
-**Hotel Director** — *Hospitality Management* | Prague, CZ
-> Managed operations, security protocols, and team coordination.
-> Transitioning career focus toward cybersecurity & red team operations.
+### 📋 Administrative Assistant
+**frontpage.com.ua Photography Studio** | Remote | `Summer 2021`
+
+- Managed client scheduling and database with attention to data privacy practices
+- Developed workflow procedures improving operational efficiency
+
 
 ---
 
@@ -220,33 +256,13 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 
 ---
 
-## 🔬 Security Research Interests
-
-\begin{itemize}
-\item \textbf{Active Directory Security:} Kerberos protocol vulnerabilities, trust relationship abuse
-\item \textbf{Web Application Security:} Modern authentication bypass techniques, API security
-\item \textbf{Network Protocols:} DNS exfiltration, VLAN hopping, ARP poisoning countermeasures
-\item \textbf{IoT \& Embedded Systems:} Firmware analysis, hardware debugging, wireless protocols
-\item \textbf{Malware Development:} Payload obfuscation, AV evasion, C2 infrastructure
-\end{itemize}
-
-**Current Research Project:**  
-*"Detection strategies for modern Kerberoasting attacks in enterprise environments"*
-
----
-
 ## 💼 Work Experience Transition
 
-**Former:** Director at Small Hotel (Prague)  
-- Team leadership & operations management
-- Crisis response & problem-solving under pressure
-- Client communication in multinational environment
-
-**Former:** Team leader of startup project basing on LLM OSINT
+**Former:** Team leader of startup project basing on LLM OSINT tool
 - Team leadership & operations management
 - Legal adjustments under rules of EU law and GDPR
-- Recruiting and working with workers
-- expierience in role of Project Manager and teamleadership group of 6 people
+- Recruiting and regulation proceses with workers and founders
+- Expierience in role of Project Manager and teamleadership group of 6+ people
 
 
 **Transitioning to:** Cybersecurity field  
@@ -255,31 +271,25 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 - Experience managing high-pressure situations
 
 ---
+## 🎯 Goals & Roadmap (2026-2027)
 
-## 📈 GitHub Statistics
+### 🏅 Certifications
+- [ ] **eJPT** — eLearnSecurity Junior Penetration Tester *(Q2 2026)*
+- [ ] **OSCP** — Offensive Security Certified Professional *(Q4 2026)*
+- [ ] **EHE** — EC-Council Ethical Hacking Essentials *(Q4 2026)*
+- [ ] **IBM** — Ethical Hacking with Open Source Tools *(Q4 2026)*
 
-<div align="center">
+### 💻 Technical
+- [ ] Reach **10+ machines** on HackTheBox *(currently 4)*
+- [ ] Publish **5 security research writeups** on GitHub
+- [ ] Expand home lab with Active Directory attack simulation environment
+- [ ] Implementing OpenClaw pipeline in testing stand
+- [ ] Release **2+ new open-source security tools**
 
-![Archont's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gr3y-foX&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3y-foX&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gr3y-foX&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Current Goals (2026)
-
-\begin{enumerate}
-\item Complete OSCP certification (Target: Q3 2026)
-\item Contribute to 3+ open-source security tools
-\item Participate in 10+ CTF competitions
-\item Publish 5 detailed security research blog posts
-\item Land first cybersecurity internship/junior position
-\end{enumerate}
-
+### 🚀 Career
+- [ ] Land first **Red Team / Penetration Testing internship**
+- [ ] Contribute to **1+ recognized open-source security project**
+- [ ] Build public **security blog / writeup portfolio**
 ---
 
 ## 🤝 Open to Opportunities
@@ -293,28 +303,6 @@ I'm actively seeking:
 
 ---
 
-## 📫 Let's Connect
-
-contact = {
-    "email": "v.pilipenko2005@gmail.com",
-    "linkedin": "[linkedin.com/in/saimon-archont-alvarez](https://www.linkedin.com/in/viktor-pylypenko-2a8893369/)",
-    "location": "Prague, Czech Republic",
-    "availability": "Open to remote & on-site opportunities",
-    "response_time": "< 24 hours"
-}
-
-**Preferred Contact:** LinkedIn for professional inquiries | Email for project collaboration and open for suggestion and advises
-
----
-
-## 🎓 Philosophy
-
-> *"In cybersecurity, every vulnerability is a lesson, every exploit is a story, and every defense is a commitment to protecting what matters. I don't just break systems—I understand them, respect them, and help make them stronger."*
-
----
-
-<div align="center">
-
 ### ⚡ Fun Facts
 
 - 🌙 Prefer night coding sessions (peak focus: 22:00-02:00)
@@ -324,8 +312,6 @@ contact = {
 - 🐧 Linux enthusiast since 2022
 
 ---
-
-**Last Updated:** March 2026
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gr3y-foX&color=red&style=flat-square&label=Profile+Views)
 
