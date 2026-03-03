@@ -141,7 +141,7 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 - Admin web panel for reviewing intercepted sessions and generating reports
 - **[Webhook Automation](https://github.com/Gr3y-foX/RPI-webhook-automatization)** — Flask + ngrok bridge for automatic `git pull` on GitHub push events, enabling zero-touch remote deployments to the Pi
 - Docker-containerized deployment for both services with isolated execution environments
-- **[VPN base authentification]
+- **[VPN base authentification]**
 - Using TailScale VPN bridhe for secure and private logging in SSH with full logging and auto blocking IP if doesnt in white list
 - Defense against BruteForce - using Python script on small password attempts before put IP on blacklist in IpTable
 
@@ -152,15 +152,6 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 ---
 
 ## 📊 CTF & Competitive Hacking
-
-### Recent Achievements
-ctf_stats = {
-    "platforms": ["HackTheBox", "TryHackMe", "PicoCTF"],
-    "boxes_pwned": 47,
-    "badges_earned": 12,
-    "favorite_category": "Web Exploitation",
-    "current_rank": "Hacker (HTB) / Top 5% (THM)"
-}
 
 ### Notable CTF Write-ups
 - 🏆 **[HTB - Academy]** - OSINT to RCE exploitation chain
