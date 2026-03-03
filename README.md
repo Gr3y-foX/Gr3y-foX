@@ -1,4 +1,4 @@
-# 🎯 Saimon "Archont" Alvarez | Cybersecurity Student & Aspiring Red Teamer
+# Viktor aka "Grey Fox" | Cybersecurity Student & Aspiring Red Teamer
 
 <div align="center">
 <pre>
