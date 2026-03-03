@@ -74,13 +74,11 @@ Cybersecurity student at **[Prague Collegue]** specializing in **penetration tes
 #### 1️⃣ [Active Directory Pentest Lab](https://github.com/Gr3y-foX/pen_test_kali)
 **Full attack chain simulation in isolated Windows environment**
 
-\begin{itemize}
-\item Kerberoasting \& AS-REP roasting attacks
-\item BloodHound path analysis for privilege escalation
-\item Pass-the-Hash \& Pass-the-Ticket techniques
-\item Golden Ticket \& Silver Ticket generation
-\item Certificate abuse via ESC1/ESC8 vulnerabilities
-\end{itemize}
+- Kerberoasting & AS-REP roasting attacks
+- BloodHound path analysis for privilege escalation
+- Pass-the-Hash & Pass-the-Ticket techniques
+- Golden Ticket & Silver Ticket generation
+- Certificate abuse via ESC1/ESC8 vulnerabilities
 
 **Tech Stack:** Windows Server 2022 | PowerShell | Impacket | Rubeus | Mimikatz  
 **Detection Focus:** Event ID 4768, 4769, 4624 correlation
