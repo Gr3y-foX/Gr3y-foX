@@ -228,9 +228,6 @@ Relevant background:
 
 <div align="center">
 
-## Languages:
-`English C1` `Czech B2` `Russian Native` `Ukrainian Native`
-
 ---
 </div>
 
