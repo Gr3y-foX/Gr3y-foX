@@ -2,7 +2,7 @@
 
 **Cybersecurity student (BSc, Prague College) · Looking for a GRC / security audit or security-awareness internship**
 
-Prague, CZ · [LinkedIn](https://www.linkedin.com/in/viktor-pylypenko-2a8893369/) · v.pilipenko2005@gmail.com
+Prague, CZ · [LinkedIn](https://www.linkedin.com/in/viktorpylypenko-grey/) · v.pilipenko2005@gmail.com
 
 ---
 
